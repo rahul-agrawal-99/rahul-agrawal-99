@@ -5,7 +5,8 @@
       # Data science with ML , DL , CV , NLP </br>
       # DevOps methodology using git , Meaven , chef , ansible , docker , kubernates , jenkins , selenium ,nagios
 
-[![ Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=rahul-agrawal-99.visitor-badge)](https://github.com/rahul-agrawal-99)
+
+# [![Visitors](https://visitor-badge.glitch.me/badge?page_id=rahul-agrawal-99.visitor-badge)](https://github.com/rahul-agrawal-99)
 
 
 <!-- ------------------------------------------------  start  --------------------------------------------------------------------- -->
