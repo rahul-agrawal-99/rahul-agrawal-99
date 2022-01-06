@@ -7,7 +7,12 @@
 
 _Visit my [website](https://rahul-agrawal-99.github.io/Portfolio-website/)._
 
+
+
+![Sapre's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-agrawal-99&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-agrawal-99&layout=compact)
 <!---
-rahul-agrawal-99/rahul-agrawal-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yash-Sapre/Yash-Sapre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
