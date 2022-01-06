@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @rahul-agrawal-99 aka Rahul Agrawal
+- 👋 Hi, I’m Rahul Agrawal
+- current studying 💻 Engineering 
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning ML and Deep Learning
+- 🌱 I’m currently acquiring professional skills in </br>
+      # Data science with ML , DL , CV , NLP </br>
+      # DevOps methodology using git , Meaven , chef , ansible , docker , kubernates , jenkins , selenium ,nagios
 
 
 
