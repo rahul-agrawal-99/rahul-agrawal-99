@@ -26,8 +26,18 @@
 ## 🚀 Languages and Tools:-
 
 <p align="left"> 
-
+<img src="https://img.icons8.com/officel/80/000000/linux-client.png" width="50" height= "50"/>
    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+ <img src="https://img.icons8.com/stickers/100/000000/python.png"/ width="50" height= "50">
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/css.png"/>
+ <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+ <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
+ <img src="https://img.icons8.com/color/48/000000/ansible.png"/>
+ <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
+ <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+ 
   
 </p>
 </br>
