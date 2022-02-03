@@ -38,7 +38,17 @@
  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
  
-  
+<!-- ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg)
+![Docker](https://badges.aleen42.com/src/docker.svg)
+![JavaScript](https://badges.aleen42.com/src/javascript.svg)
+![Nodejs](https://badges.aleen42.com/src/node.svg)
+![Npm](https://badges.aleen42.com/src/npm.svg)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+<!-- ![GitLab](https://badges.aleen42.com/src/gitlab.svg) -->
+<!-- ![GitHub](https://badges.aleen42.com/src/github.svg)
+![VS Code](https://badges.aleen42.com/src/visual_studio_code.svg)
+ -->
 </p>
 </br>
 
