@@ -5,7 +5,7 @@
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently acquiring professional skills in </br>
       # Data science with ML , DL , CV , NLP </br>
-      # DevOps methodology using git , Meaven , chef , ansible , docker , kubernates , jenkins , selenium , terraform/aws
+      # DevOps methodology using git , Meaven , chef , ansible , docker , kubernates , jenkins , selenium , terraform with aws
 
 
 <!-- # [![Visitors](https://visitor-badge.glitch.me/badge?page_id=rahul-agrawal-99.visitor-badge)](https://github.com/rahul-agrawal-99) -->
