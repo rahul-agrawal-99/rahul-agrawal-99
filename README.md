@@ -30,6 +30,7 @@
  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
  <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
  <img src="https://img.icons8.com/dusk/48/000000/docker.png"/>
+ <img src="https://img.icons8.com/fluency/48/000000/terraform.png"/>
  
 <!-- ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg)
